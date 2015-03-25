@@ -28,8 +28,7 @@ You can get pre-built binaries [from here](https://github.com/atom/atom-shell/re
 
 ## Installing native node modules
 
-[To depend on native Node modules,
-apm](https://github.com/atom/atom-shell/blob/master/docs/tutorial/using-native-node-modules.md)
+[To depend on native Node modules](https://github.com/atom/atom-shell/blob/master/docs/tutorial/using-native-node-modules.md)
 you should use [apm](https://github.com/atom/apm). How do you install
 the apm package manager? Well, with npm package manager of course :)
 ``npm install apm``
