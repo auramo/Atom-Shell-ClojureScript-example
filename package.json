@@ -1,0 +1,8 @@
+{
+  "name": "atom-cljs-example",
+  "version": "0.0.1",
+  "main": "bootstrap.js",
+  "dependencies": {
+    "walk": "^2.3.9"
+  }
+}
