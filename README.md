@@ -2,7 +2,7 @@
 
 [Atom Shell](https://github.com/atom/atom-shell) gives you a way to
 create a desktop(ish) web application which can access your local OS via
-the NodeJS environment and the npm module ecosystem. Pretty cool!
+the Node.js environment and the npm module ecosystem. Pretty cool!
 
 This working example presents a way to use all this power with
 ClojureScript.
@@ -66,7 +66,8 @@ for some reason.
 ## Run the app
 
 cd to this checkout directory, and run Atom in there:
-/Applications/Atom.app/Contents/MacOS/Atom .
+
+```/Applications/Atom.app/Contents/MacOS/Atom .```
 
 (the path to Atom is specific to your OS and Atom installation of course)
 
